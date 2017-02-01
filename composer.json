@@ -1,0 +1,32 @@
+{
+  "name": "sickdaflip/meanbee_tinymce5",
+  "type": "magento-module",
+  "license": "MIT",
+  "description": "Magento 1.9.3. Module",
+  "authors": [
+    {
+      "name": "SickDaFlip",
+      "email": "philippbreitsprecher@gmail.com"
+    }
+  ],
+  "extra": {
+    "map": [
+      [
+        "app/code/community/Meanbee/*",
+        "app/code/community/Meanbee/"
+      ],
+      [
+        "app/design/adminhtml/default/default/layout/*",
+        "app/design/adminhtml/default/default/layout/"
+      ],
+      [
+        "app/etc/modules/*.xml",
+        "app/etc/modules/"
+      ],
+      [
+        "js/meanbee/*",
+        "js/meanbee/"
+      ]
+    ]
+  }
+}

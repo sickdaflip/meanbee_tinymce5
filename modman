@@ -1,0 +1,4 @@
+app/code/community/Meanbee/*                    app/code/community/Meanbee/
+app/design/adminhtml/default/default/layout/*   app/design/adminhtml/default/default/layout/
+app/etc/modules/*.xml                           app/etc/modules/
+js/meanbee/*                                    js/meanbee/
